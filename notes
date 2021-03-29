@@ -1,0 +1,5 @@
+ POST - https://agj9rxrqia.execute-api.eu-west-2.amazonaws.com/prod/notes
+  GET - https://agj9rxrqia.execute-api.eu-west-2.amazonaws.com/prod/notes/{id}
+  GET - https://agj9rxrqia.execute-api.eu-west-2.amazonaws.com/prod/notes
+  PUT - https://agj9rxrqia.execute-api.eu-west-2.amazonaws.com/prod/notes/{id}
+  DELETE - https://agj9rxrqia.execute-api.eu-west-2.amazonaws.com/prod/notes/{id}
