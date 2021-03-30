@@ -3,3 +3,10 @@
   GET - https://agj9rxrqia.execute-api.eu-west-2.amazonaws.com/prod/notes
   PUT - https://agj9rxrqia.execute-api.eu-west-2.amazonaws.com/prod/notes/{id}
   DELETE - https://agj9rxrqia.execute-api.eu-west-2.amazonaws.com/prod/notes/{id}
+
+  pool id  eu-west-2_fyBbz8zpo
+  Pool ARN arn:aws:cognito-idp:eu-west-2:464672627590:userpool/eu-west-2_fyBbz8zpo
+
+  app client id 2qdc2u7iljvel9mnvhvb71f8ts
+
+  identity pool id eu-west-2:1bb77558-9dfd-4b31-8379-72be1b5ccfc9
