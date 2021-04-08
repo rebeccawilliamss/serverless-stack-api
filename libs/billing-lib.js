@@ -6,4 +6,4 @@ module.exports = function calculateCost(storage) {
         : 3;
 
     return rate * storage * 100;
-  }
+  };
