@@ -20,6 +20,8 @@
     "serverless-offline": "^5.3.3"
   },
   "dependencies": {
+    "react-bootstrap": "^1.4.0",
+    "react-icons": "^3.11.0",
     "stripe": "^8.140.0",
     "uuid": "^7.0.3"
   }
